@@ -1,0 +1,1 @@
+C:\Users\emils\source\repos\MD3db\MD3db\MD3db.csproj;x64
